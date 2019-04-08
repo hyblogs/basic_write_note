@@ -1,4 +1,4 @@
-# Java面试题汇总与解答
+# Java常见基础知识汇总
 > 原文与出处：https://blog.csdn.net/u010697681/article/details/79414112、https://blog.csdn.net/IbelieveSmile/article/details/81334205
 
 [toc]
